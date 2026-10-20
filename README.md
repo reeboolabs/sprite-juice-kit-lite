@@ -80,4 +80,4 @@ Get it here: https://reebo0.itch.io/sprite-juice-kit-2d
 ## License
 
 MIT, see `LICENSE`. Free for any use, including commercial. (The paid kit has its own license.)
-Made by REEBOO Labs with the help of an AI coding assistant.
+Made by REEBOO Labs.
